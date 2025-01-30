@@ -1,0 +1,102 @@
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Tela de login</title>
+  <style>
+    body {
+      background-image: url("https://example.com/background.jpg");
+    }
+
+    .login-box {
+      text-align: center;
+      align-items: center;
+      width: 300px;
+      height: 250px;
+      padding: 20px;
+      margin: 0 auto;
+      margin-top: 100px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .login-box input {
+      width: 100%;
+      height: 40px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 10px;
+      margin-bottom: 10px;
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .login-box button {
+      width: 100%;
+      height: 50px;
+      background-color: #29b6f6;
+      color: white;
+      border: 1px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .login-box .forgot-password {
+      text-align: right;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .login-box .loading-spinner {
+      display: none;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  </style>
+</head>
+<body>
+  <div class="login-box">
+    <input type="password" placeholder="Senha Admin" id="Senhapss">
+    <button id="buttonm">Entrar</button>
+    <a href="#" class="forgot-password" id="esqueceu">Esqueci a senha</a>
+    <img src="https://example.com/spinner.gif" class="loading-spinner">
+  </div>
+</body>
+<script>
+    const botao_esqueceu = document.getElementById("esqueceu");
+    const botao = document.getElementById("buttonm");
+    const senha_campo = document.getElementById("Senhapss");
+    const loadingSpinner = document.querySelector(".loading-spinner");
+
+    cef.emit("EntradaLogin");
+
+    
+    cef.on("loginpage:resposta", (success) => {
+      if (success) {
+        cef.hide(true);
+        return;
+      }
+
+      loadingSpinner.style.display = "none";
+    });
+
+    botao_esqueceu.addEventListener("click", () => {
+      
+      cef.emit("EleEsqueceuJS");
+    });
+
+    botao.addEventListener("click", () => {
+      event.preventDefault();
+
+      const input = senha_campo.value;
+      
+      if(input === null) return;
+
+      loadingSpinner.style.display = "block";
+
+      cef.emit("loginpage:login", input);
+    });
+  </script>
+</html>

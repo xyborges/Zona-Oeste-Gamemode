@@ -1,0 +1,2 @@
+se utilizado em vps, use o programa Xampp.
+importe joaob_2526.sql no painel phpmyadmin.

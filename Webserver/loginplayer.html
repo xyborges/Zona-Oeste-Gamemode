@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title></title>
+	<link rel="stylesheet" href="">
+	<style>
+		body{
+			font-family: Arial, Helvetica, sans-serif;
+			overflow: hidden;
+			margin: 0;
+		}
+
+		.caixa-login {
+		  position: absolute;
+		  top: 45%;
+		  left: 50%;
+		  transform: translate(-50%, -50%);
+		  width: 25%;
+		  height: 45%;
+		  background: linear-gradient(to left top, #33ccff, seagreen);
+		  border-radius: 15px;
+		  box-shadow: 0 0 20px rgba(229, 235, 231, 0.8);
+		  transition: opacity 0.5s ease-in-out;
+		}
+
+		.sub-login{
+			position: relative;
+			width: 100%;
+			height: 65%;
+			top: 60%;
+			left: 50%;
+
+			transform: translate(-50%, -50%);
+		}
+		/*#ZonaOeste{
+			position: absolute;
+			transform: translate(-50%, -50%);
+			left: 50%;
+			top: -10%;
+			font-family: 'PricedownBl';
+			  background-image: linear-gradient(to right, #33ccff, seagreen);
+			  color: transparent;
+			  -webkit-background-clip: text;
+			  background-clip: text;
+
+		}
+		#linha2 {
+		    display: block;
+		    text-align: center;
+		}*/
+		#caixa-login-logozo{
+			position: absolute;
+			transform: translate(-50%, -50%);
+			left: 50%;
+			top: -10%;
+			zoom: 60%;
+		}
+		.imagens-class{
+			width: 10px;
+			height:20px ;
+		}
+
+		.imagem-p{
+			position: absolute;
+			left: 20%;
+			top: 0%;
+			transform: translate(-50%, -50%);
+			width: 20px;
+			height: 20px;
+		}
+		.campos-input{
+			background-color: transparent;
+			position: absolute;
+			left: 50%;
+			top: 0%;
+			width: 40%;
+			transform: translate(-50%, -50%);
+		}
+		#imagem_senha{
+			top: 40%;
+			cursor: pointer;
+		}
+		#camposenha{
+			top: 40%;
+		}
+		input{
+			outline: none;
+			border: none;
+			border-bottom: 1px solid black;
+		}
+		.Buttons-div {
+		  display: flex;
+		  justify-content: center;
+		  align-items: center;
+		  position: absolute;
+		  left: 50%; /* Ajuste para centralizar horizontalmente */
+		  transform: translateX(-50%); /* Centralizar corretamente usando transform */
+		  bottom: 0;
+		}
+
+		.Buttons-div > button {
+		  width: 60px;
+		  height: 40px;
+		  border: 0;
+		  border-radius: 5px;
+		  color: #e5ebe7;
+		  background: #181818;
+		  cursor: pointer;
+		  transition: box-shadow 0.3s;
+		  margin: 0 5px;
+		}
+		button:hover {
+  			box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+		}
+		.Buttons-div #botao-sair{
+			position: relative;
+			left: 15px;
+		}
+		.Buttons-div #botao-entrar{
+			position: relative;
+			right: 15px;
+		}
+		#musica{
+			position: absolute;
+			bottom: 0;
+		}
+		.esconder{
+			opacity: 0;
+		}
+	</style>
+</head>
+<body>
+	<audio id = "musica" autoplay>
+	  <source src="musica/musicalogin.mp3" type="audio/mp3">
+	 
+	</audio>
+	<div class="caixa-login" id = "caixa-login">	
+		<img id = "caixa-login-logozo" src="imagens/logozo.png">
+		<div class="sub-login">
+			<div class = "campos-senha">
+				<img src="imagens/eye.png" id = "imagem_senha" class="imagem-p">
+				<input type="password" name="" id = "camposenha" class="campos-input">
+			</div>
+			<div class="campos-nome">
+				<img src="imagens/user.png" alt="" class="imagem-p">
+				<input type="text" name="" id="camponome" class="campos-input">
+			</div>
+			<div class="Buttons-div">
+				 <button id="botaoentrar">Entrar</button>
+				 <button id="botaosair">Sair</button>
+			</div>
+		</div>
+	</div>
+</body>
+	<script>
+		const login = document.getElementById("caixa-login");
+		const show_senha = document.getElementById("imagem_senha");
+		const campo_senha = document.getElementById("camposenha");
+		const campo_nome = document.getElementById("camponome");
+
+		const botao_entrar = document.getElementById("botaoentrar");
+		const botao_sair = document.getElementById("botaosair");
+	  	var meuAudio = document.getElementById('musica');
+
+	  
+	    window.addEventListener('load', function() {
+	    	meuAudio.play();
+	    });
+		show_senha.addEventListener("click", () =>{
+			
+			if(campo_senha.type == 'password'){
+				campo_senha.type = 'text';
+				show_senha.src = "imagens/visible.png";
+			}
+			else{
+				campo_senha.type = 'password';
+				show_senha.src = "imagens/eye.png";
+			}
+		});
+		botao_entrar.addEventListener("click", () => {
+			
+			let nome = campo_nome.value;
+			let senha = campo_senha.value;
+			var Tudo = nome + ',' + senha;
+    		cef.emit("pwd:loginjs", Tudo);
+		});
+	    cef.on("loginpage:resposta", (success) => {
+	      if (success) {
+	      	login.classList.add("esconder");
+		    setTimeout(function() {
+		        login.classList.remove("esconder");
+		    	cef.hide(true);
+		    }, 500);
+	        return;
+	      }
+	    });
+	</script>
+</html>

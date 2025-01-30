@@ -1,0 +1,84 @@
+	mysql_tquery(Dados, "CREATE TABLE IF NOT EXISTS Habs (\
+	Nome varchar(25) NOT NULL UNIQUE,\
+	Carro int DEFAULT 0,\
+	Moto int DEFAULT 0,\
+	Aviao int DEFAULT 0);");
+
+	mysql_tquery(Dados, "CREATE TABLE IF NOT EXISTS Interiores (\
+	NomeInterior	varchar(50) DEFAULT NULL,\
+	Interiorid	int DEFAULT 0,\
+	VirtualWorld	int DEFAULT 0,\
+	IntX	double DEFAULT 0.0,\
+	IntY	double DEFAULT 0,\
+	IntZ	double DEFAULT 0,\
+	IntsX	double DEFAULT 0,\
+	IntsY	double DEFAULT 0,\
+	IntsZ	double DEFAULT 0,\
+	TipoIcon	int DEFAULT 0);");
+
+	mysql_tquery(Dados, "CREATE TABLE IF NOT EXISTS Gps (\
+	gpsid	int DEFAULT 0,\
+	LocalName varchar(255) DEFAULT NULL,\
+	LocalX	double DEFAULT 0.0,\
+	LocalY	double DEFAULT 0.0,\
+	LocalZ	double DEFAULT 0.0,\
+	LocalTipo int DEFAULT 0, PRIMARY KEY(gpsid));");
+	
+	mysql_tquery(Dados, "CREATE TABLE IF NOT EXISTS Garagens (\
+	Garagemid	int DEFAULT 0,\
+	GaragemX	double DEFAULT 0.0,\
+	GaragemY	double DEFAULT 0.0,\
+	GaragemZ	double DEFAULT 0.0,\
+	GaragemDono	varchar(25) DEFAULT NULL,\
+	GaragemPreco	int DEFAULT 0,\
+	GaragemComprada	int DEFAULT 0,\
+	GaragemTrancada	int DEFAULT 0, PRIMARY KEY(Garagemid));");
+
+	mysql_tquery(Dados, "CREATE TABLE IF NOT EXISTS Conce (\
+	vehid	int DEFAULT 0,\
+	Nome	varchar(25) DEFAULT NULL,\
+	Veiculo	INTEGER DEFAULT 0,\
+	X	REAL DEFAULT 0,\
+	Y	REAL DEFAULT 0,\
+	Z	REAL DEFAULT 0,\
+	Rotacao	REAL DEFAULT 0,\
+	Cor1	INTEGER DEFAULT 0,\
+	Cor2	INTEGER DEFAULT 0,\
+	Placa	TEXT DEFAULT '',\
+	Pneu1	int DEFAULT 0,\
+	Pneu2	int DEFAULT 0,\
+	Pneu3	int DEFAULT 0,\
+	Pneu4	int DEFAULT 0,\
+	Desmanchado	int DEFAULT 0,\
+	Quebrado	int DEFAULT 0,\
+	IPVA	int DEFAULT 0,\
+	Gasolina	int DEFAULT 0,\
+	Apreendido	int DEFAULT 0,\
+	VehVw	int DEFAULT 0,\
+	KMR	double DEFAULT 0.0);");
+	for(new i = 1; i != 4; i++){
+		new string[128];
+		format(string, sizeof string, "ALTER TABLE `Conce` ADD IF NOT EXISTS Pneu%d int DEFAULT 0;", i);
+		mysql_tquery(Dados, string);
+	}
+	for(new i = 0; i != 13; i++){
+		new string[128];
+		format(string, sizeof string, "ALTER TABLE `Conce` ADD IF NOT EXISTS Componente%d int DEFAULT 0;", i);
+		mysql_tquery(Dados, string);
+	}
+	for(new i; i < 60; i++){
+		new string[128];
+		format(string, sizeof string, "ALTER TABLE `Conce` ADD IF NOT EXISTS Item%d int DEFAULT 18631;", i);
+		mysql_tquery(Dados, string);
+
+		format(string, sizeof string, "ALTER TABLE `Conce` ADD IF NOT EXISTS Quantia%d int DEFAULT 0;", i);
+		mysql_tquery(Dados, string);
+	}
+	for(new i; i < 60; i++){
+		new string[128];
+		format(string, sizeof string, "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item%d int DEFAULT 18631;", i); // 18631 = nada
+		mysql_tquery(Dados, string);
+
+		format(string, sizeof string, "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia%d int DEFAULT 0;", i);
+		mysql_tquery(Dados, string);
+	}

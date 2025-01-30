@@ -1,0 +1,218 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:00] filterscripts = ""  (string)
+[20:02:00] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:02] filterscripts = ""  (string)
+[20:02:02] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:02:10] filterscripts = ""  (string)
+[20:02:10] 
+[20:02:10] Server Plugins
+[20:02:10] --------------
+[20:02:10]  Loading plugin: sscanf
+[20:02:10] 
+[20:02:10]  ===============================
+[20:02:10] 
+[20:02:10]       sscanf plugin loaded.     
+[20:02:10] 
+[20:02:10]          Version: 2.13.8
+[20:02:10] 
+[20:02:10]    (c) 2022 Alex "Y_Less" Cole  
+[20:02:10] 
+[20:02:10]  ===============================
+[20:02:10] 
+[20:02:10]   Loaded.
+[20:02:10]  Loading plugin: streamer
+[20:02:11] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:02:11]   Loaded.
+[20:02:11]  Loading plugin: sampvoice
+[20:02:11]   Plugin does not conform to architecture.
+[20:02:11]   Failed.
+[20:02:11]  Loaded 2 plugins.
+
+[20:02:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:02:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:25] filterscripts = ""  (string)
+[20:04:25] 
+[20:04:25] Server Plugins
+[20:04:25] --------------
+[20:04:25]  Loading plugin: sscanf
+[20:04:25] 
+[20:04:25]  ===============================
+[20:04:25] 
+[20:04:25]       sscanf plugin loaded.     
+[20:04:25] 
+[20:04:25]          Version: 2.13.8
+[20:04:25] 
+[20:04:25]    (c) 2022 Alex "Y_Less" Cole  
+[20:04:25] 
+[20:04:25]  ===============================
+[20:04:25] 
+[20:04:25]   Loaded.
+[20:04:25]  Loading plugin: streamer
+[20:04:25] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:04:25]   Loaded.
+[20:04:25]  Loaded 2 plugins.
+
+[20:04:25] I couldn't load any gamemode scripts. Please verify your server.cfg
+[20:04:25] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:49] filterscripts = ""  (string)
+[20:04:49] 
+[20:04:49] Server Plugins
+[20:04:49] --------------
+[20:04:49]  Loading plugin: sscanf
+[20:04:49] 
+[20:04:49]  ===============================
+[20:04:49] 
+[20:04:49]       sscanf plugin loaded.     
+[20:04:49] 
+[20:04:49]          Version: 2.13.8
+[20:04:49] 
+[20:04:49]    (c) 2022 Alex "Y_Less" Cole  
+[20:04:49] 
+[20:04:49]  ===============================
+[20:04:49] 
+[20:04:49]   Loaded.
+[20:04:49]  Loading plugin: streamer
+[20:04:49] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:04:49]   Loaded.
+[20:04:49]  Loaded 2 plugins.
+
+[20:04:49] 
+[20:04:49] Filterscripts
+[20:04:49] ---------------
+[20:04:49]   Loaded 0 filterscripts.
+
+[20:04:49] Script[gamemodes/freeroamborges.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[20:04:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:05:08] filterscripts = ""  (string)
+[20:05:08] 
+[20:05:08] Server Plugins
+[20:05:08] --------------
+[20:05:08]  Loading plugin: sscanf
+[20:05:08] 
+[20:05:08]  ===============================
+[20:05:08] 
+[20:05:08]       sscanf plugin loaded.     
+[20:05:08] 
+[20:05:08]          Version: 2.13.8
+[20:05:08] 
+[20:05:08]    (c) 2022 Alex "Y_Less" Cole  
+[20:05:08] 
+[20:05:08]  ===============================
+[20:05:08] 
+[20:05:08]   Loaded.
+[20:05:08]  Loading plugin: streamer
+[20:05:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[20:05:08]   Loaded.
+[20:05:08]  Loaded 2 plugins.
+
+[20:05:08] 
+[20:05:08] Filterscripts
+[20:05:08] ---------------
+[20:05:08]   Loaded 0 filterscripts.
+
+[20:05:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:06:04] filterscripts = ""  (string)
+[11:06:04] 
+[11:06:04] Server Plugins
+[11:06:04] --------------
+[11:06:04]  Loading plugin: sscanf
+[11:06:05] 
+[11:06:05]  ===============================
+[11:06:05] 
+[11:06:05]       sscanf plugin loaded.     
+[11:06:05] 
+[11:06:05]          Version: 2.13.1
+[11:06:05] 
+[11:06:05]    (c) 2022 Alex "Y_Less" Cole  
+[11:06:05] 
+[11:06:05]  ===============================
+[11:06:05] 
+[11:06:05]   Loaded.
+[11:06:05]  Loading plugin: streamer
+[11:06:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[11:06:05]   Loaded.
+[11:06:05]  Loaded 2 plugins.
+
+[11:06:05] 
+[11:06:05] Filterscripts
+[11:06:05] ---------------
+[11:06:05]   Loaded 0 filterscripts.
+
+[11:06:05] Number of vehicle models: 0

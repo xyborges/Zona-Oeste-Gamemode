@@ -1,0 +1,45 @@
+[02/05/23 22:06:20] [ERROR] Discord terminated websocket connection; reason: Disallowed intent(s). (4014)
+[02/05/23 22:06:20] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/06/23 20:07:21] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[02/06/23 20:25:48] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/06/23 20:25:48] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/06/23 20:25:50] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[02/06/23 20:45:53] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/06/23 20:45:53] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/06/23 20:45:58] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': end of stream
+[02/06/23 21:30:54] [ERROR] Discord terminated websocket connection; reason:  (1000)
+[02/06/23 22:06:47] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/06/23 22:06:53] [ERROR] DCC_SendChannelMessage: invalid channel id '0'
+[02/07/23 23:12:50] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': Foi forçado o cancelamento de uma conexão existente pelo host remoto
+[02/07/23 23:12:50] [WARNING] Error while shutting down SSL on HTTP connection: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/07/23 23:12:55] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/07/23 23:12:55] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/08/23 20:11:43] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': Foi forçado o cancelamento de uma conexão existente pelo host remoto
+[02/08/23 20:11:43] [WARNING] Error while shutting down SSL on HTTP connection: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/08/23 20:12:02] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[02/08/23 20:12:02] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[02/08/23 23:00:17] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[02/16/23 14:50:59] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': Uma conexão estabelecida foi anulada pelo software no computador host
+[02/16/23 14:50:59] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[02/16/23 15:08:02] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': Uma conexão estabelecida foi anulada pelo software no computador host
+[02/16/23 15:08:02] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[02/17/23 18:59:09] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[02/17/23 18:59:09] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[03/24/23 11:00:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[03/24/23 11:00:00] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[04/14/23 12:00:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[04/14/23 12:00:04] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[04/14/23 12:00:55] [ERROR] Can't establish secured connection to Discord API: stream truncated (1)
+[04/14/23 12:00:55] [WARNING] reconnect failed, waiting 1 seconds...
+[04/14/23 12:00:56] [WARNING] Error while shutting down SSL on HTTP connection: shutdown while in init (336462231)
+[04/24/23 18:06:45] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[04/24/23 18:06:45] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[04/24/23 18:06:46] [ERROR] Error while sending HTTP GET request to '/api/oauth2/applications/@me': Uma conexão estabelecida foi anulada pelo software no computador host
+[04/24/23 18:06:46] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[04/25/23 17:00:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream
+[04/25/23 17:00:01] [WARNING] Error while shutting down SSL on HTTP connection: Uma conexão estabelecida foi anulada pelo software no computador host (10053)
+[04/25/23 17:13:09] [ERROR] Can't read from Discord websocket gateway: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[04/25/23 17:13:10] [ERROR] Can't write to Discord websocket gateway: A operação de E/S foi anulada devido a uma saída de thread ou a uma requisição de aplicativo (995)
+[04/25/23 17:13:22] [ERROR] Error while retrieving HTTP GET response from '/api/oauth2/applications/@me': Foi forçado o cancelamento de uma conexão existente pelo host remoto
+[04/25/23 17:13:22] [WARNING] Error while shutting down SSL on HTTP connection: Foi forçado o cancelamento de uma conexão existente pelo host remoto (10054)
+[04/25/23 18:00:00] [ERROR] Error while retrieving HTTP POST response from '/api/v10/channels/1072197511877501028/messages': end of stream

@@ -1,0 +1,154 @@
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Casas`": Table 'joaob_2526.Casas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Menus`": Table 'joaob_2526.Menus' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item0 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia0 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item1 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia1 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item2 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia2 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item3 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia3 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item4 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia4 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item5 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia5 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item6 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia6 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item7 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia7 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item8 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia8 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item9 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia9 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item10 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia10 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item11 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia11 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item12 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia12 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item13 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia13 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item14 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia14 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item15 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia15 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item16 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia16 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item17 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia17 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item18 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia18 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item19 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia19 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item20 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia20 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item21 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia21 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item22 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia22 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item23 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia23 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item24 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia24 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item25 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia25 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item26 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia26 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item27 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia27 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item28 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia28 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item29 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia29 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item30 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia30 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item31 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia31 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item32 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia32 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item33 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia33 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item34 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia34 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item35 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia35 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item36 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia36 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item37 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia37 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item38 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia38 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item39 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia39 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item40 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia40 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item41 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia41 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item42 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia42 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item43 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia43 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item44 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia44 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item45 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia45 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item46 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia46 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item47 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia47 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item48 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia48 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item49 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia49 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item50 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia50 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item51 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia51 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item52 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia52 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item53 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia53 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item54 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia54 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item55 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia55 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item56 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia56 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item57 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia57 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item58 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia58 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Item59 int DEFAULT 18631;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "ALTER TABLE `Mochilas` ADD IF NOT EXISTS Quantia59 int DEFAULT 0;": Table 'joaob_2526.Mochilas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Casas`": Table 'joaob_2526.Casas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Objetos`": Table 'joaob_2526.Objetos' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Cofres`": Table 'joaob_2526.Cofres' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `CamerasAdmin`": Table 'joaob_2526.CamerasAdmin' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Gangzones`": Table 'joaob_2526.Gangzones' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `LocalSentar`": Table 'joaob_2526.LocalSentar' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Empresas`": Table 'joaob_2526.Empresas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Caixas`": Table 'joaob_2526.Caixas' doesn't exist
+[09/20/2023 12:50:47 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Portoes`": Table 'joaob_2526.Portoes' doesn't exist
+[09/20/2023 12:59:33 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Banidos` WHERE `Ip` = '138.94.170.112' OR `Nome` = 'Joao_Borges'": Table 'joaob_2526.Banidos' doesn't exist
+[09/20/2023 01:00:07 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:07 PM] [plugins/mysql] error #1054 while executing query "SELECT `Skin`,`TipoPrisao`,`Genero`,`Trabalho`,`DinheiroPD`,`Admin`,`Fome`,`Sede`,`VoipMutado`,`VezesPreso`,`Org`,`Cargo`,`Nivel`,`DeathX`,`DeathY`,`DeathZ`,`DeathInterior`,`DeathVirtualWorld`,`Ferido`,`Xp`,`Vip`,`TempoVip`,`Prisao`,`Cash`,`Px`,`Py`,`Pz`,`Interior`,`VirtualWorld`,`CadeiaStaff`,`HorasJogadas`,`Procurado`,`Dinheiro`,`MotivoCadeia`,`TituloPersonalizado`,`Titulo`,`UltimoLogin`,`Ip`,`Senha`,`Nome` FROM `contas` WHERE `userid`='0' LIMIT 1": Unknown column 'Senha' in 'field list'
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
+[09/20/2023 01:00:13 PM] [plugins/mysql] error #1146 while executing query "SELECT * FROM `Acessorios` WHERE `Nome` = 'Joao_Borges'": Table 'joaob_2526.Acessorios' doesn't exist
+[09/20/2023 01:00:13 PM] [plugins/mysql] cache_get_row_count: no active cache
