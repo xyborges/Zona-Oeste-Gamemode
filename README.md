@@ -1,0 +1,1 @@
+Gamemode criada ao longo de quase 3 anos de desenvolvimento, possui uma lógica um pouco avançada. Foi utilizado open.mp server, com a versão mais recente e feito um downgrade posteriormente. Há bugs no gamemode que não foram possiveís de solucionar sem grandes edições no código fonte.
